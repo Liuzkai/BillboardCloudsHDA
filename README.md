@@ -233,3 +233,9 @@ Billboard Clouds算法求出了所有的 Result(Binmax,TrianglesBinmax)Result(Bi
 3. 我之前做的一个Houdini HDA，年久失修，不保证能用 :D
 
 [https://github.com/Liuzkai/BillboardCloudsHDA.git​github.com/Liuzkai/BillboardCloudsHDA.git](https://link.zhihu.com/?target=https%3A//github.com/Liuzkai/BillboardCloudsHDA.git)
+
+## 许可
+
+本仓库中 Liuzkai 的原创代码及其原创配套文档采用 [MIT 许可](LICENSE)，允许使用、复制、修改和商业分发；分发软件副本或实质性部分时，须保留版权声明及完整许可声明。无需在产品界面署名。第三方组件或内容仍遵循各自的原许可，相关版权及许可声明必须保留。
+
+本授权包括作者自行实现的 OpenCL 示例和 HDA 算法逻辑；不覆盖引用论文、外部文章／配图、参考实现或例子中的第三方模型与贴图。`example.hip` 等工程中的第三方内容及 Houdini 内置组件仍按原许可使用；不能将整个工程包视为全部由作者原创。
